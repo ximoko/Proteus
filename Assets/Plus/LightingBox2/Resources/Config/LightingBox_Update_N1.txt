@@ -1,0 +1,5 @@
+[SampleProjects]
+sampleNames = {Car Sample Desert,WebGL Sample 2017_2f3+,Realtime ArchViz Sample,Lighting Box 2.4 f3}
+sampleLinks = {http://89.163.206.23/CarSampleLink.zip,http://89.163.206.23/WebGL_Lighting_Box_Sample.zip,https://drive.google.com/file/d/0B2WDRR3zNNn8V1Q1SUUtUmE0dVE/view?usp=sharing,https://drive.google.com/file/d/1XhxRr9iGc5RcRjRQ5IaB-2u-Y7_e_ryW/view}
+version = 2.4
+sampleVersions = {2.32,2.32,2.4,2.41}

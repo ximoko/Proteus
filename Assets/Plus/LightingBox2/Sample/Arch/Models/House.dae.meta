@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 1cab1ce28b9077c4bb4ce591c581aaeb
+timeCreated: 1511681264
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bed
+    100002: closet
+    100004: closet1
+    100006: Floor2
+    100008: //RootNode
+    100010: Mattress
+    100012: Mirror
+    100014: Mirror1
+    100016: Pillow
+    100018: Pillow1
+    100020: Plane_x0020__x0028_2_x0029_
+    100022: Quilt
+    100024: Roof
+    100026: slow
+    100028: slow_wall
+    100030: Table_TV
+    100032: Trim_Char_b_1_1
+    100034: Trim_Char_j_1_1
+    100036: tv
+    100038: Wall
+    100040: Wall1
+    100042: Wall2
+    100044: Wall3
+    100046: Wall5
+    100048: Wall_Light3
+    100050: Wall_Light4
+    100052: Wall_Light5
+    100054: Wall_Light6
+    100056: Window_Border
+    100058: WIndow_Wall
+    400000: bed
+    400002: closet
+    400004: closet1
+    400006: Floor2
+    400008: //RootNode
+    400010: Mattress
+    400012: Mirror
+    400014: Mirror1
+    400016: Pillow
+    400018: Pillow1
+    400020: Plane_x0020__x0028_2_x0029_
+    400022: Quilt
+    400024: Roof
+    400026: slow
+    400028: slow_wall
+    400030: Table_TV
+    400032: Trim_Char_b_1_1
+    400034: Trim_Char_j_1_1
+    400036: tv
+    400038: Wall
+    400040: Wall1
+    400042: Wall2
+    400044: Wall3
+    400046: Wall5
+    400048: Wall_Light3
+    400050: Wall_Light4
+    400052: Wall_Light5
+    400054: Wall_Light6
+    400056: Window_Border
+    400058: WIndow_Wall
+    2300000: bed
+    2300002: closet
+    2300004: closet1
+    2300006: Floor2
+    2300008: Mattress
+    2300010: Mirror
+    2300012: Mirror1
+    2300014: Pillow
+    2300016: Pillow1
+    2300018: Plane_x0020__x0028_2_x0029_
+    2300020: Quilt
+    2300022: Roof
+    2300024: slow
+    2300026: slow_wall
+    2300028: Table_TV
+    2300030: Trim_Char_b_1_1
+    2300032: Trim_Char_j_1_1
+    2300034: tv
+    2300036: Wall
+    2300038: Wall1
+    2300040: Wall2
+    2300042: Wall3
+    2300044: Wall5
+    2300046: Wall_Light3
+    2300048: Wall_Light4
+    2300050: Wall_Light5
+    2300052: Wall_Light6
+    2300054: Window_Border
+    2300056: WIndow_Wall
+    3300000: bed
+    3300002: closet
+    3300004: closet1
+    3300006: Floor2
+    3300008: Mattress
+    3300010: Mirror
+    3300012: Mirror1
+    3300014: Pillow
+    3300016: Pillow1
+    3300018: Plane_x0020__x0028_2_x0029_
+    3300020: Quilt
+    3300022: Roof
+    3300024: slow
+    3300026: slow_wall
+    3300028: Table_TV
+    3300030: Trim_Char_b_1_1
+    3300032: Trim_Char_j_1_1
+    3300034: tv
+    3300036: Wall
+    3300038: Wall1
+    3300040: Wall2
+    3300042: Wall3
+    3300044: Wall5
+    3300046: Wall_Light3
+    3300048: Wall_Light4
+    3300050: Wall_Light5
+    3300052: Wall_Light6
+    3300054: Window_Border
+    3300056: WIndow_Wall
+    4300000: Trim_Char_b_1_1
+    4300002: Trim_Char_j_1_1
+    4300004: Plane_x0020__x0028_2_x0029_
+    4300006: bed
+    4300008: closet
+    4300010: closet1
+    4300012: Floor2
+    4300014: Mattress
+    4300016: Mirror
+    4300018: Mirror1
+    4300020: Pillow
+    4300022: Pillow1
+    4300024: Quilt
+    4300026: Roof
+    4300028: slow
+    4300030: slow_wall
+    4300032: Table_TV
+    4300034: tv
+    4300036: Wall
+    4300038: Wall1
+    4300040: Wall2
+    4300042: Wall3
+    4300044: Wall5
+    4300046: Wall_Light3
+    4300048: Wall_Light4
+    4300050: Wall_Light5
+    4300052: Wall_Light6
+    4300054: Window_Border
+    4300056: WIndow_Wall
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
