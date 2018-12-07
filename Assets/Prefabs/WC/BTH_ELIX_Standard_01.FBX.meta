@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 7026fb06b6b890647ba62c9a2c861b08
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BTH_ELIX_Faucet_Focus100
+    100002: BTH_ELIX_Faucet_Shower
+    100004: BTH_ELIX_Mirror
+    100006: BTH_ELIX_Shower_Door
+    100008: BTH_ELIX_Shower_Edge_Bot
+    100010: BTH_ELIX_Shower_Edge_Side
+    100012: BTH_ELIX_Shower_Glass
+    100014: BTH_ELIX_Shower_Plate
+    100016: BTH_ELIX_Sink
+    100018: //RootNode
+    100020: BTH_ELIX_Toilet
+    400000: BTH_ELIX_Faucet_Focus100
+    400002: BTH_ELIX_Faucet_Shower
+    400004: BTH_ELIX_Mirror
+    400006: BTH_ELIX_Shower_Door
+    400008: BTH_ELIX_Shower_Edge_Bot
+    400010: BTH_ELIX_Shower_Edge_Side
+    400012: BTH_ELIX_Shower_Glass
+    400014: BTH_ELIX_Shower_Plate
+    400016: BTH_ELIX_Sink
+    400018: //RootNode
+    400020: BTH_ELIX_Toilet
+    2100000: 'Material #2145962746'
+    2100002: 'Material #2145962716'
+    2100004: Glass_Windows
+    2100006: 'Material #2145962718'
+    2100008: 'Material #2145962724'
+    2100010: OXIRON
+    2100012: 'Material #2146929319'
+    2100014: 'Material #2146929318'
+    2100016: 'Material #2146929320'
+    2100018: 'Material #2146929332'
+    2100020: No Name
+    2100022: 'Material #168'
+    2100024: 'Material #183'
+    2100026: 'Material #182'
+    2100028: 'Material #181'
+    2100030: 'Material #2146929317'
+    2300000: BTH_ELIX_Faucet_Focus100
+    2300002: BTH_ELIX_Faucet_Shower
+    2300004: BTH_ELIX_Mirror
+    2300006: BTH_ELIX_Shower_Door
+    2300008: BTH_ELIX_Shower_Edge_Bot
+    2300010: BTH_ELIX_Shower_Edge_Side
+    2300012: BTH_ELIX_Shower_Glass
+    2300014: BTH_ELIX_Shower_Plate
+    2300016: BTH_ELIX_Sink
+    2300018: BTH_ELIX_Toilet
+    3300000: BTH_ELIX_Faucet_Focus100
+    3300002: BTH_ELIX_Faucet_Shower
+    3300004: BTH_ELIX_Mirror
+    3300006: BTH_ELIX_Shower_Door
+    3300008: BTH_ELIX_Shower_Edge_Bot
+    3300010: BTH_ELIX_Shower_Edge_Side
+    3300012: BTH_ELIX_Shower_Glass
+    3300014: BTH_ELIX_Shower_Plate
+    3300016: BTH_ELIX_Sink
+    3300018: BTH_ELIX_Toilet
+    4300000: BTH_ELIX_Shower_Plate
+    4300002: BTH_ELIX_Shower_Glass
+    4300004: BTH_ELIX_Shower_Edge_Bot
+    4300006: BTH_ELIX_Shower_Edge_Side
+    4300008: BTH_ELIX_Mirror
+    4300010: BTH_ELIX_Toilet
+    4300012: BTH_ELIX_Sink
+    4300014: BTH_ELIX_Faucet_Focus100
+    4300016: BTH_ELIX_Faucet_Shower
+    4300018: BTH_ELIX_Shower_Door
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
