@@ -322,8 +322,8 @@ public class OptionsController_Game : MonoBehaviour {
         /// UN-COMMENT THESE METHODS ONLY IF YOU HAVE :
         /// 1. Imported the Brightness Effect from Standard Assets
         /// 2. Extracted the Brightness Scripts from Brightness.rar located in 'Brightness' Folder
-        // game_setContrast();
-        // game_setBrightness();
+        game_setContrast();
+        game_setBrightness();
     }
 
 #endregion
