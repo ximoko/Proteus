@@ -29,9 +29,10 @@ public enum face{
 }
 
 public class uBuildManager : MonoBehaviour {
-	
-	//variables visible in the inspector (under settings)
-	public Color green;
+
+    Renderer m_Renderer;
+    //variables visible in the inspector (under settings)
+    public Color green;
 	public Color red;
 	public Color selected;
 	public Color buttonHighlight;
@@ -345,13 +346,15 @@ public class uBuildManager : MonoBehaviour {
 			if(piece == pieceSelected){
 				//if this is the selected piece, give it the selected color and a transparent shader
 				piece.GetComponentInChildren<Renderer>().material.color = selected;
-				piece.GetComponent<Renderer>().material.shader = Shader.Find("Unlit/UnlitAlphaWithFade");
+				//piece.GetComponent<Renderer>().material.shader = Shader.Find("Unlit/UnlitAlphaWithFade");
 			}
 			else{
-				//if this is not the selected piece, give it a white color and a diffuse shader
-				piece.GetComponentInChildren<Renderer>().material.color = Color.white;
-				piece.GetComponent<Renderer>().material.shader = Shader.Find("Diffuse");
-			}
+ 
+                    m_Renderer.material.color = Color.clear;
+                    //if this is not the selected piece, give it a white color and a diffuse shader
+                    //piece.GetComponentInChildren<Renderer>().material.color = ;
+                    //piece.GetComponent<Renderer>().material.shader = Shader.Find("Diffuse");
+                }
 		}
 		}
 	}

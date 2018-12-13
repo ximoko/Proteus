@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: c868abca4d20d0e44b8d7009a3c515ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '#MC - 4 Pieds 4 Pieds [2340]'
+    100002: '#MC - 4 Pieds 4 Pieds [2352]'
+    100004: '#MC - 4 Pieds 4 Pieds [2356]'
+    100006: '#MC - 4 Pieds 4 Pieds [2367]'
+    100008: '#MC - 4 Pieds 4 Pieds [2370]'
+    100010: "#MC - Fa\xE7ade Panneau [2341]"
+    100012: "#MC - Fa\xE7ade Panneau [2342]"
+    100014: "#MC - Fa\xE7ade Panneau [2351]"
+    100016: "#MC - Fa\xE7ade Panneau [2355]"
+    100018: "#MC - Fa\xE7ade Panneau [2366]"
+    100020: "#MC - Fa\xE7ade Panneau [2371]"
+    100022: "#MC - Fa\xE7ade Panneau [2372]"
+    100024: "#MC - Fa\xE7ade Panneau [2373]"
+    100026: "#MC - Fa\xE7ade vitr\xE9e Panneau [2346]"
+    100028: "#MC - Fa\xE7ade vitr\xE9e Panneau [2347]"
+    100030: "#MC - Poign\xE9e MC - Poign\xE9e [2343]"
+    100032: "#MC - Poign\xE9e MC - Poign\xE9e [2344]"
+    100034: "#MC - Poign\xE9e MC - Poign\xE9e [2348]"
+    100036: "#MC - Poign\xE9e MC - Poign\xE9e [2349]"
+    100038: "#MC - Poign\xE9e Poign\xE9e [2353]"
+    100040: "#MC - Poign\xE9e Poign\xE9e [2357]"
+    100042: "#MC - Poign\xE9e Poign\xE9e [2361]"
+    100044: "#MC - Poign\xE9e Poign\xE9e [2362]"
+    100046: "#MC - Poign\xE9e Poign\xE9e [2368]"
+    100048: "#MC - Poign\xE9e Poign\xE9e [2374]"
+    100050: "#MC - Poign\xE9e Poign\xE9e [2375]"
+    100052: "#MC - Poign\xE9e Poign\xE9e [2376]"
+    100054: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2329]
+    100056: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2468]
+    100058: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2488]
+    100060: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [89349]
+    100062: "Evier carr\xE9 - Encastrable 450mm x 450mm [2394]"
+    100064: Four micro-ondes 1000W [2345]
+    100066: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EAH\xB2 EHP1221 [2499]"
+    100068: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHA\xB2 EHA2S35W [2494]"
+    100070: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHT EHT780 [111726]
+    100072: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM1135 - 40mm [2490]
+    100074: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM35W - 40mm [2495]
+    100076: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM\xB2 EMM224W + EMM2SW
+      [2506]"
+    100078: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]
+    100080: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]_[117071]
+    100082: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]
+    100084: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]_[117905]
+    100086: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]
+    100088: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]_[118740]
+    100090: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VAM VAM [2508]
+    100092: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]
+    100094: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]_[120404]
+    100096: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]
+    100098: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]_[121260]
+    100100: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VCZ VCZ0 [2509]
+    100102: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VTZ VTZ0 [2510]
+    100104: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_BXC BFC100F [2478]
+    100106: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_G2H G2H1072EX [2500]
+    100108: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]
+    100110: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126842]
+    100112: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126852]
+    100114: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GHN GHNB [2483]
+    100116: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_TDA TDAF [2502]
+    100118: HVAC_Mechanical-Ventilation_Aereco_Wall-canopies_A-EHT EHTC100 [2479]
+    100120: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EHA EHA2ACW [2491]
+    100122: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EMM EMMACW [2496]
+    100124: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AC ACB [2505]
+    100126: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AP AEA098 [2497]
+    100128: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AS AEA731 [90279]
+    100130: //RootNode
+    100132: MB-1P 640 x 500 x 872 mm [2354]
+    100134: MB-1P 640 x 500 x 872 mm [2365]
+    100136: MB-1T-LV 640 x 500 x 872 mm [2350]
+    100138: MB-3T 1000 x 500 x 872 mm [2369]
+    100140: MBA-1P-1T 800 x 500 x 872 mm [2360]
+    100142: MC-2TV-1T-1P-F-MO 640 x 600 x 2200 mm [2339]
+    100144: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2313]"
+    100146: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2314]"
+    100148: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2322]"
+    100150: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2323]"
+    100152: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2324]"
+    100154: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2379]"
+    100156: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2380]"
+    100158: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2381]"
+    100160: "Muro b\xE1sico Int. Brique 110 mm [2416]"
+    100162: "Muro b\xE1sico Int. Brique 110 mm [2417]"
+    100164: "Muro b\xE1sico Int. Brique 110 mm [2418]"
+    100166: "Muro b\xE1sico Int. Brique 110 mm [2419]"
+    100168: "Muro b\xE1sico Int. Brique 110 mm [2446]"
+    100170: "Muro b\xE1sico Int. Brique 110 mm [2447]"
+    100172: "Muro b\xE1sico Int. Brique 110 mm [2448]"
+    100174: "Muro b\xE1sico Int. Brique 110 mm [2449]"
+    100176: PF-VR-1 Vantail 80 x 195 cm [2492]
+    100178: "PTA Avec r\xE9servation pour \xE9vier [2392]"
+    100180: "PTD Sans r\xE9servation pour \xE9vier [2393]"
+    100182: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2398]"
+    100184: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2422]"
+    100186: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2459]"
+    100188: "Suelo Dalle en b\xE9ton - 250 mm [2332]"
+    100190: Tasse et soucoupe Tasse et soucoupe [2395]
+    100192: "Techo b\xE1sico Plafond 600 mm x 1200 mm [2317]"
+    100194: 'Vista 3D: {3D}'
+    400000: '#MC - 4 Pieds 4 Pieds [2340]'
+    400002: '#MC - 4 Pieds 4 Pieds [2352]'
+    400004: '#MC - 4 Pieds 4 Pieds [2356]'
+    400006: '#MC - 4 Pieds 4 Pieds [2367]'
+    400008: '#MC - 4 Pieds 4 Pieds [2370]'
+    400010: "#MC - Fa\xE7ade Panneau [2341]"
+    400012: "#MC - Fa\xE7ade Panneau [2342]"
+    400014: "#MC - Fa\xE7ade Panneau [2351]"
+    400016: "#MC - Fa\xE7ade Panneau [2355]"
+    400018: "#MC - Fa\xE7ade Panneau [2366]"
+    400020: "#MC - Fa\xE7ade Panneau [2371]"
+    400022: "#MC - Fa\xE7ade Panneau [2372]"
+    400024: "#MC - Fa\xE7ade Panneau [2373]"
+    400026: "#MC - Fa\xE7ade vitr\xE9e Panneau [2346]"
+    400028: "#MC - Fa\xE7ade vitr\xE9e Panneau [2347]"
+    400030: "#MC - Poign\xE9e MC - Poign\xE9e [2343]"
+    400032: "#MC - Poign\xE9e MC - Poign\xE9e [2344]"
+    400034: "#MC - Poign\xE9e MC - Poign\xE9e [2348]"
+    400036: "#MC - Poign\xE9e MC - Poign\xE9e [2349]"
+    400038: "#MC - Poign\xE9e Poign\xE9e [2353]"
+    400040: "#MC - Poign\xE9e Poign\xE9e [2357]"
+    400042: "#MC - Poign\xE9e Poign\xE9e [2361]"
+    400044: "#MC - Poign\xE9e Poign\xE9e [2362]"
+    400046: "#MC - Poign\xE9e Poign\xE9e [2368]"
+    400048: "#MC - Poign\xE9e Poign\xE9e [2374]"
+    400050: "#MC - Poign\xE9e Poign\xE9e [2375]"
+    400052: "#MC - Poign\xE9e Poign\xE9e [2376]"
+    400054: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2329]
+    400056: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2468]
+    400058: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2488]
+    400060: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [89349]
+    400062: "Evier carr\xE9 - Encastrable 450mm x 450mm [2394]"
+    400064: Four micro-ondes 1000W [2345]
+    400066: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EAH\xB2 EHP1221 [2499]"
+    400068: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHA\xB2 EHA2S35W [2494]"
+    400070: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHT EHT780 [111726]
+    400072: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM1135 - 40mm [2490]
+    400074: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM35W - 40mm [2495]
+    400076: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM\xB2 EMM224W + EMM2SW
+      [2506]"
+    400078: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]
+    400080: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]_[117071]
+    400082: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]
+    400084: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]_[117905]
+    400086: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]
+    400088: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]_[118740]
+    400090: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VAM VAM [2508]
+    400092: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]
+    400094: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]_[120404]
+    400096: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]
+    400098: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]_[121260]
+    400100: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VCZ VCZ0 [2509]
+    400102: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VTZ VTZ0 [2510]
+    400104: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_BXC BFC100F [2478]
+    400106: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_G2H G2H1072EX [2500]
+    400108: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]
+    400110: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126842]
+    400112: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126852]
+    400114: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GHN GHNB [2483]
+    400116: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_TDA TDAF [2502]
+    400118: HVAC_Mechanical-Ventilation_Aereco_Wall-canopies_A-EHT EHTC100 [2479]
+    400120: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EHA EHA2ACW [2491]
+    400122: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EMM EMMACW [2496]
+    400124: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AC ACB [2505]
+    400126: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AP AEA098 [2497]
+    400128: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AS AEA731 [90279]
+    400130: //RootNode
+    400132: MB-1P 640 x 500 x 872 mm [2354]
+    400134: MB-1P 640 x 500 x 872 mm [2365]
+    400136: MB-1T-LV 640 x 500 x 872 mm [2350]
+    400138: MB-3T 1000 x 500 x 872 mm [2369]
+    400140: MBA-1P-1T 800 x 500 x 872 mm [2360]
+    400142: MC-2TV-1T-1P-F-MO 640 x 600 x 2200 mm [2339]
+    400144: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2313]"
+    400146: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2314]"
+    400148: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2322]"
+    400150: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2323]"
+    400152: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2324]"
+    400154: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2379]"
+    400156: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2380]"
+    400158: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2381]"
+    400160: "Muro b\xE1sico Int. Brique 110 mm [2416]"
+    400162: "Muro b\xE1sico Int. Brique 110 mm [2417]"
+    400164: "Muro b\xE1sico Int. Brique 110 mm [2418]"
+    400166: "Muro b\xE1sico Int. Brique 110 mm [2419]"
+    400168: "Muro b\xE1sico Int. Brique 110 mm [2446]"
+    400170: "Muro b\xE1sico Int. Brique 110 mm [2447]"
+    400172: "Muro b\xE1sico Int. Brique 110 mm [2448]"
+    400174: "Muro b\xE1sico Int. Brique 110 mm [2449]"
+    400176: PF-VR-1 Vantail 80 x 195 cm [2492]
+    400178: "PTA Avec r\xE9servation pour \xE9vier [2392]"
+    400180: "PTD Sans r\xE9servation pour \xE9vier [2393]"
+    400182: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2398]"
+    400184: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2422]"
+    400186: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2459]"
+    400188: "Suelo Dalle en b\xE9ton - 250 mm [2332]"
+    400190: Tasse et soucoupe Tasse et soucoupe [2395]
+    400192: "Techo b\xE1sico Plafond 600 mm x 1200 mm [2317]"
+    400194: 'Vista 3D: {3D}'
+    2000000: 'Vista 3D: {3D}'
+    2100000: No Name
+    2300000: '#MC - 4 Pieds 4 Pieds [2340]'
+    2300002: '#MC - 4 Pieds 4 Pieds [2352]'
+    2300004: '#MC - 4 Pieds 4 Pieds [2356]'
+    2300006: '#MC - 4 Pieds 4 Pieds [2367]'
+    2300008: '#MC - 4 Pieds 4 Pieds [2370]'
+    2300010: "#MC - Fa\xE7ade Panneau [2341]"
+    2300012: "#MC - Fa\xE7ade Panneau [2342]"
+    2300014: "#MC - Fa\xE7ade Panneau [2351]"
+    2300016: "#MC - Fa\xE7ade Panneau [2355]"
+    2300018: "#MC - Fa\xE7ade Panneau [2366]"
+    2300020: "#MC - Fa\xE7ade Panneau [2371]"
+    2300022: "#MC - Fa\xE7ade Panneau [2372]"
+    2300024: "#MC - Fa\xE7ade Panneau [2373]"
+    2300026: "#MC - Fa\xE7ade vitr\xE9e Panneau [2346]"
+    2300028: "#MC - Fa\xE7ade vitr\xE9e Panneau [2347]"
+    2300030: "#MC - Poign\xE9e MC - Poign\xE9e [2343]"
+    2300032: "#MC - Poign\xE9e MC - Poign\xE9e [2344]"
+    2300034: "#MC - Poign\xE9e MC - Poign\xE9e [2348]"
+    2300036: "#MC - Poign\xE9e MC - Poign\xE9e [2349]"
+    2300038: "#MC - Poign\xE9e Poign\xE9e [2353]"
+    2300040: "#MC - Poign\xE9e Poign\xE9e [2357]"
+    2300042: "#MC - Poign\xE9e Poign\xE9e [2361]"
+    2300044: "#MC - Poign\xE9e Poign\xE9e [2362]"
+    2300046: "#MC - Poign\xE9e Poign\xE9e [2368]"
+    2300048: "#MC - Poign\xE9e Poign\xE9e [2374]"
+    2300050: "#MC - Poign\xE9e Poign\xE9e [2375]"
+    2300052: "#MC - Poign\xE9e Poign\xE9e [2376]"
+    2300054: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2329]
+    2300056: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2468]
+    2300058: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2488]
+    2300060: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [89349]
+    2300062: "Evier carr\xE9 - Encastrable 450mm x 450mm [2394]"
+    2300064: Four micro-ondes 1000W [2345]
+    2300066: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EAH\xB2 EHP1221 [2499]"
+    2300068: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHA\xB2 EHA2S35W [2494]"
+    2300070: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHT EHT780 [111726]
+    2300072: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM1135 - 40mm [2490]
+    2300074: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM35W - 40mm [2495]
+    2300076: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM\xB2 EMM224W + EMM2SW
+      [2506]"
+    2300078: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]
+    2300080: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]_[117071]
+    2300082: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]
+    2300084: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]_[117905]
+    2300086: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]
+    2300088: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]_[118740]
+    2300090: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VAM VAM [2508]
+    2300092: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]
+    2300094: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]_[120404]
+    2300096: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]
+    2300098: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]_[121260]
+    2300100: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VCZ VCZ0 [2509]
+    2300102: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VTZ VTZ0 [2510]
+    2300104: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_BXC BFC100F [2478]
+    2300106: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_G2H G2H1072EX [2500]
+    2300108: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126842]
+    2300110: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126852]
+    2300112: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GHN GHNB [2483]
+    2300114: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_TDA TDAF [2502]
+    2300116: HVAC_Mechanical-Ventilation_Aereco_Wall-canopies_A-EHT EHTC100 [2479]
+    2300118: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EHA EHA2ACW [2491]
+    2300120: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EMM EMMACW [2496]
+    2300122: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AC ACB [2505]
+    2300124: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AP AEA098 [2497]
+    2300126: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AS AEA731 [90279]
+    2300128: MB-1P 640 x 500 x 872 mm [2354]
+    2300130: MB-1P 640 x 500 x 872 mm [2365]
+    2300132: MB-1T-LV 640 x 500 x 872 mm [2350]
+    2300134: MB-3T 1000 x 500 x 872 mm [2369]
+    2300136: MBA-1P-1T 800 x 500 x 872 mm [2360]
+    2300138: MC-2TV-1T-1P-F-MO 640 x 600 x 2200 mm [2339]
+    2300140: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2313]"
+    2300142: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2314]"
+    2300144: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2322]"
+    2300146: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2323]"
+    2300148: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2324]"
+    2300150: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2379]"
+    2300152: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2380]"
+    2300154: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2381]"
+    2300156: "Muro b\xE1sico Int. Brique 110 mm [2416]"
+    2300158: "Muro b\xE1sico Int. Brique 110 mm [2417]"
+    2300160: "Muro b\xE1sico Int. Brique 110 mm [2418]"
+    2300162: "Muro b\xE1sico Int. Brique 110 mm [2419]"
+    2300164: "Muro b\xE1sico Int. Brique 110 mm [2446]"
+    2300166: "Muro b\xE1sico Int. Brique 110 mm [2447]"
+    2300168: "Muro b\xE1sico Int. Brique 110 mm [2448]"
+    2300170: "Muro b\xE1sico Int. Brique 110 mm [2449]"
+    2300172: PF-VR-1 Vantail 80 x 195 cm [2492]
+    2300174: "PTA Avec r\xE9servation pour \xE9vier [2392]"
+    2300176: "PTD Sans r\xE9servation pour \xE9vier [2393]"
+    2300178: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2398]"
+    2300180: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2422]"
+    2300182: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2459]"
+    2300184: "Suelo Dalle en b\xE9ton - 250 mm [2332]"
+    2300186: Tasse et soucoupe Tasse et soucoupe [2395]
+    2300188: "Techo b\xE1sico Plafond 600 mm x 1200 mm [2317]"
+    3300000: '#MC - 4 Pieds 4 Pieds [2340]'
+    3300002: '#MC - 4 Pieds 4 Pieds [2352]'
+    3300004: '#MC - 4 Pieds 4 Pieds [2356]'
+    3300006: '#MC - 4 Pieds 4 Pieds [2367]'
+    3300008: '#MC - 4 Pieds 4 Pieds [2370]'
+    3300010: "#MC - Fa\xE7ade Panneau [2341]"
+    3300012: "#MC - Fa\xE7ade Panneau [2342]"
+    3300014: "#MC - Fa\xE7ade Panneau [2351]"
+    3300016: "#MC - Fa\xE7ade Panneau [2355]"
+    3300018: "#MC - Fa\xE7ade Panneau [2366]"
+    3300020: "#MC - Fa\xE7ade Panneau [2371]"
+    3300022: "#MC - Fa\xE7ade Panneau [2372]"
+    3300024: "#MC - Fa\xE7ade Panneau [2373]"
+    3300026: "#MC - Fa\xE7ade vitr\xE9e Panneau [2346]"
+    3300028: "#MC - Fa\xE7ade vitr\xE9e Panneau [2347]"
+    3300030: "#MC - Poign\xE9e MC - Poign\xE9e [2343]"
+    3300032: "#MC - Poign\xE9e MC - Poign\xE9e [2344]"
+    3300034: "#MC - Poign\xE9e MC - Poign\xE9e [2348]"
+    3300036: "#MC - Poign\xE9e MC - Poign\xE9e [2349]"
+    3300038: "#MC - Poign\xE9e Poign\xE9e [2353]"
+    3300040: "#MC - Poign\xE9e Poign\xE9e [2357]"
+    3300042: "#MC - Poign\xE9e Poign\xE9e [2361]"
+    3300044: "#MC - Poign\xE9e Poign\xE9e [2362]"
+    3300046: "#MC - Poign\xE9e Poign\xE9e [2368]"
+    3300048: "#MC - Poign\xE9e Poign\xE9e [2374]"
+    3300050: "#MC - Poign\xE9e Poign\xE9e [2375]"
+    3300052: "#MC - Poign\xE9e Poign\xE9e [2376]"
+    3300054: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2329]
+    3300056: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2468]
+    3300058: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2488]
+    3300060: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [89349]
+    3300062: "Evier carr\xE9 - Encastrable 450mm x 450mm [2394]"
+    3300064: Four micro-ondes 1000W [2345]
+    3300066: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EAH\xB2 EHP1221 [2499]"
+    3300068: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHA\xB2 EHA2S35W [2494]"
+    3300070: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHT EHT780 [111726]
+    3300072: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM1135 - 40mm [2490]
+    3300074: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM35W - 40mm [2495]
+    3300076: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM\xB2 EMM224W + EMM2SW
+      [2506]"
+    3300078: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]
+    3300080: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]_[117071]
+    3300082: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]
+    3300084: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]_[117905]
+    3300086: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]
+    3300088: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]_[118740]
+    3300090: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VAM VAM [2508]
+    3300092: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]
+    3300094: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]_[120404]
+    3300096: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]
+    3300098: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]_[121260]
+    3300100: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VCZ VCZ0 [2509]
+    3300102: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VTZ VTZ0 [2510]
+    3300104: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_BXC BFC100F [2478]
+    3300106: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_G2H G2H1072EX [2500]
+    3300108: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126842]
+    3300110: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126852]
+    3300112: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GHN GHNB [2483]
+    3300114: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_TDA TDAF [2502]
+    3300116: HVAC_Mechanical-Ventilation_Aereco_Wall-canopies_A-EHT EHTC100 [2479]
+    3300118: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EHA EHA2ACW [2491]
+    3300120: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EMM EMMACW [2496]
+    3300122: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AC ACB [2505]
+    3300124: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AP AEA098 [2497]
+    3300126: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AS AEA731 [90279]
+    3300128: MB-1P 640 x 500 x 872 mm [2354]
+    3300130: MB-1P 640 x 500 x 872 mm [2365]
+    3300132: MB-1T-LV 640 x 500 x 872 mm [2350]
+    3300134: MB-3T 1000 x 500 x 872 mm [2369]
+    3300136: MBA-1P-1T 800 x 500 x 872 mm [2360]
+    3300138: MC-2TV-1T-1P-F-MO 640 x 600 x 2200 mm [2339]
+    3300140: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2313]"
+    3300142: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2314]"
+    3300144: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2322]"
+    3300146: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2323]"
+    3300148: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2324]"
+    3300150: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2379]"
+    3300152: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2380]"
+    3300154: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2381]"
+    3300156: "Muro b\xE1sico Int. Brique 110 mm [2416]"
+    3300158: "Muro b\xE1sico Int. Brique 110 mm [2417]"
+    3300160: "Muro b\xE1sico Int. Brique 110 mm [2418]"
+    3300162: "Muro b\xE1sico Int. Brique 110 mm [2419]"
+    3300164: "Muro b\xE1sico Int. Brique 110 mm [2446]"
+    3300166: "Muro b\xE1sico Int. Brique 110 mm [2447]"
+    3300168: "Muro b\xE1sico Int. Brique 110 mm [2448]"
+    3300170: "Muro b\xE1sico Int. Brique 110 mm [2449]"
+    3300172: PF-VR-1 Vantail 80 x 195 cm [2492]
+    3300174: "PTA Avec r\xE9servation pour \xE9vier [2392]"
+    3300176: "PTD Sans r\xE9servation pour \xE9vier [2393]"
+    3300178: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2398]"
+    3300180: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2422]"
+    3300182: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2459]"
+    3300184: "Suelo Dalle en b\xE9ton - 250 mm [2332]"
+    3300186: Tasse et soucoupe Tasse et soucoupe [2395]
+    3300188: "Techo b\xE1sico Plafond 600 mm x 1200 mm [2317]"
+    4300000: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2313]"
+    4300002: "Muro b\xE1sico G\xE9n\xE9rique - Ext. 200 mm [2314]"
+    4300004: "Techo b\xE1sico Plafond 600 mm x 1200 mm [2317]"
+    4300006: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2322]"
+    4300008: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2323]"
+    4300010: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2324]"
+    4300012: 1 Vantail - Droit 0.60 m x 0.95 m - Appui en aluminium [2329]
+    4300014: "Suelo Dalle en b\xE9ton - 250 mm [2332]"
+    4300016: MC-2TV-1T-1P-F-MO 640 x 600 x 2200 mm [2339]
+    4300018: '#MC - 4 Pieds 4 Pieds [2340]'
+    4300020: "#MC - Fa\xE7ade Panneau [2341]"
+    4300022: "#MC - Fa\xE7ade Panneau [2342]"
+    4300024: "#MC - Poign\xE9e MC - Poign\xE9e [2343]"
+    4300026: Four micro-ondes 1000W [2345]
+    4300028: "#MC - Fa\xE7ade vitr\xE9e Panneau [2346]"
+    4300030: MB-1T-LV 640 x 500 x 872 mm [2350]
+    4300032: "#MC - Fa\xE7ade Panneau [2351]"
+    4300034: '#MC - 4 Pieds 4 Pieds [2352]'
+    4300036: "#MC - Poign\xE9e Poign\xE9e [2353]"
+    4300038: MB-1P 640 x 500 x 872 mm [2354]
+    4300040: "#MC - Fa\xE7ade Panneau [2355]"
+    4300042: MBA-1P-1T 800 x 500 x 872 mm [2360]
+    4300044: "#MC - Poign\xE9e Poign\xE9e [2361]"
+    4300046: MB-3T 1000 x 500 x 872 mm [2369]
+    4300048: '#MC - 4 Pieds 4 Pieds [2370]'
+    4300050: "#MC - Fa\xE7ade Panneau [2371]"
+    4300052: "#MC - Fa\xE7ade Panneau [2372]"
+    4300054: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2379]"
+    4300056: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2380]"
+    4300058: "Muro b\xE1sico G\xE9n\xE9rique - Int. 70 mm [2381]"
+    4300060: "PTA Avec r\xE9servation pour \xE9vier [2392]"
+    4300062: "PTD Sans r\xE9servation pour \xE9vier [2393]"
+    4300064: "Evier carr\xE9 - Encastrable 450mm x 450mm [2394]"
+    4300066: Tasse et soucoupe Tasse et soucoupe [2395]
+    4300068: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2398]"
+    4300070: "Muro b\xE1sico Int. Brique 110 mm [2416]"
+    4300072: "Muro b\xE1sico Int. Brique 110 mm [2417]"
+    4300074: "Muro b\xE1sico Int. Brique 110 mm [2418]"
+    4300076: "Muro b\xE1sico Int. Brique 110 mm [2419]"
+    4300078: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2422]"
+    4300080: "Muro b\xE1sico Int. Brique 110 mm [2446]"
+    4300082: "Muro b\xE1sico Int. Brique 110 mm [2447]"
+    4300084: "Muro b\xE1sico Int. Brique 110 mm [2448]"
+    4300086: "Muro b\xE1sico Int. Brique 110 mm [2449]"
+    4300088: "Suelo B\xE9ton 160 mm avec platelage m\xE9tallique 50 mm [2459]"
+    4300090: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_BXC BFC100F [2478]
+    4300092: HVAC_Mechanical-Ventilation_Aereco_Wall-canopies_A-EHT EHTC100 [2479]
+    4300094: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]
+    4300096: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP VBPST [2480]_[120404]
+    4300098: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]
+    4300100: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V2A V2A041 [2481]_[117071]
+    4300102: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]
+    4300104: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V4A V4A [2482]_[117905]
+    4300106: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GHN GHNB [2483]
+    4300108: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM EMM1135 - 40mm [2490]
+    4300110: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EHA EHA2ACW [2491]
+    4300112: PF-VR-1 Vantail 80 x 195 cm [2492]
+    4300114: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHA\xB2 EHA2S35W [2494]"
+    4300116: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_A-EMM EMMACW [2496]
+    4300118: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AP AEA098 [2497]
+    4300120: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EAH\xB2 EHP1221 [2499]"
+    4300122: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_G2H G2H1072EX [2500]
+    4300124: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]
+    4300126: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VBP+ VB21184(ST) / VB21183(MS)
+      [2501]_[121260]
+    4300128: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_TDA TDAF [2502]
+    4300130: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126852]
+    4300132: HVAC_Mechanical-Ventilation_Aereco_Exhaust-units_GBP GBP41030C [2503]_[126842]
+    4300134: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AC ACB [2505]
+    4300136: "HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EMM\xB2 EMM224W + EMM2SW
+      [2506]"
+    4300138: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]
+    4300140: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_V5S V5SAC [2507]_[118740]
+    4300142: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VAM VAM [2508]
+    4300144: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VCZ VCZ0 [2509]
+    4300146: HVAC_Mechanical-Ventilation_Aereco_Exhaust-fans_VTZ VTZ0 [2510]
+    4300148: HVAC_Mechanical-Ventilation_Aereco_Window-canopies_AS AEA731 [90279]
+    4300150: HVAC_Mechanical-Ventilation_Aereco_Air-inlet_EHT EHT780 [111726]
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

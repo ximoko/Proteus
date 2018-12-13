@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 007faad47f74f1848b92baab927ba583
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Habitaculo1:pCube6
+    100002: Habitaculo1:pCube7
+    100004: Habitaculo1:pCube8
+    100006: Habitaculo1:transform1
+    100008: Habitaculo1:transform2
+    100010: Habitaculo1:transform3
+    100012: Habitaculo1:transform4
+    100014: Habitaculo1:transform5
+    100016: //RootNode
+    100018: pCube1
+    100020: pCube11
+    100022: pCube12
+    100024: pCube13
+    100026: pCube2
+    100028: pCube3
+    100030: pCube4
+    100032: pCube6
+    100034: transform1
+    100036: transform2
+    100038: transform3
+    100040: transform4
+    100042: transform5
+    400000: Habitaculo1:pCube6
+    400002: Habitaculo1:pCube7
+    400004: Habitaculo1:pCube8
+    400006: Habitaculo1:transform1
+    400008: Habitaculo1:transform2
+    400010: Habitaculo1:transform3
+    400012: Habitaculo1:transform4
+    400014: Habitaculo1:transform5
+    400016: //RootNode
+    400018: pCube1
+    400020: pCube11
+    400022: pCube12
+    400024: pCube13
+    400026: pCube2
+    400028: pCube3
+    400030: pCube4
+    400032: pCube6
+    400034: transform1
+    400036: transform2
+    400038: transform3
+    400040: transform4
+    400042: transform5
+    2100000: lambert1
+    2100002: phong10
+    2100004: phong9
+    2100006: phong11
+    2100008: phong3
+    2100010: phong4
+    2100012: phong2
+    2100014: phong5
+    2100016: Habitaculo1_Material__58
+    2100018: Default_Material
+    2100020: Habitaculo1_Material__63
+    2100022: Habitaculo1_Material__59
+    2100024: Habitaculo1_Material__51
+    2100026: phong8
+    2100028: phong7
+    2300000: pCube13
+    3300000: pCube13
+    4300000: pCube13
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
