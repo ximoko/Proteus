@@ -1,63 +1,25 @@
 fileFormatVersion: 2
-guid: f85bd954a3c7eb544b7a854aef3b2831
+guid: dec97e9d61074d148af694359b0bf3f3
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: BED_BaxterParis
+    100000: Box002
     100002: //RootNode
-    100004: BED_BaxterParis_MeshPart0
-    100006: BED_BaxterParis_MeshPart1
-    400000: BED_BaxterParis
+    400000: Box002
     400002: //RootNode
-    400004: BED_BaxterParis_MeshPart0
-    400006: BED_BaxterParis_MeshPart1
-    2100000: wire_000000000
-    2100002: Material__64
-    2100004: Material__63
-    2100006: Material__61
-    2100008: Material__60
-    2100010: Material__62
-    2300000: BED_BaxterParis
-    2300002: BED_BaxterParis_MeshPart0
-    2300004: BED_BaxterParis_MeshPart1
-    3300000: BED_BaxterParis
-    3300002: BED_BaxterParis_MeshPart0
-    3300004: BED_BaxterParis_MeshPart1
-    4300000: BED_BaxterParis
-    4300002: BED_BaxterParis_MeshPart0
-    4300004: BED_BaxterParis_MeshPart1
-    2186277476908879412: ImportLogs
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material__60
-    second: {fileID: 2100000, guid: e70deedd214c2f446abcbec2ac6589b3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material__61
-    second: {fileID: 2100000, guid: 1db0583558795a144a669242fbb6fbfa, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material__62
-    second: {fileID: 2100000, guid: de2030b1c3a5b704da6ad6ebf75017a1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material__63
-    second: {fileID: 2100000, guid: 855f5052dd517db4c921454490bb6a74, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material__64
-    second: {fileID: 2100000, guid: 02c13baf9c577054b978bca6e5ff0ed1, type: 2}
+    2100000: 03___Default
+    2100002: 2
+    2100004: Dark_polished_metal
+    2100006: Wood_05
+    2300000: Box002
+    3300000: Box002
+    4300000: Box002
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -86,10 +48,10 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 0
+    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -97,7 +59,7 @@ ModelImporter:
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -109,7 +71,7 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
