@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 1508aad5850128940be05301be612b64
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: armario01:Mesh
     100002: Audifonos
@@ -207,8 +207,6 @@ ModelImporter:
     100402: WRectangle
     100404: "\xED\xEE\xE6\xEA\xE008"
     100406: "\xED\xEE\xE6\xEA\xE009"
-    100408: cama:Cama_Colchon_MeshPart0
-    100410: cama:Cama_Colchon_MeshPart1
     400000: armario01:Mesh
     400002: Audifonos
     400004: Bocina
@@ -413,8 +411,6 @@ ModelImporter:
     400402: WRectangle
     400404: "\xED\xEE\xE6\xEA\xE008"
     400406: "\xED\xEE\xE6\xEA\xE009"
-    400408: cama:Cama_Colchon_MeshPart0
-    400410: cama:Cama_Colchon_MeshPart1
     2100000: aiStandardSurface13
     2100002: aiStandardSurface15
     2100004: lambert1
@@ -602,8 +598,6 @@ ModelImporter:
     2300352: silla06:Mesh
     2300354: sofa:polySurface1
     2300356: WRectangle
-    2300358: cama:Cama_Colchon_MeshPart0
-    2300360: cama:Cama_Colchon_MeshPart1
     3300000: armario01:Mesh
     3300002: Bocina
     3300004: Bocina_1
@@ -783,8 +777,6 @@ ModelImporter:
     3300352: silla06:Mesh
     3300354: sofa:polySurface1
     3300356: WRectangle
-    3300358: cama:Cama_Colchon_MeshPart0
-    3300360: cama:Cama_Colchon_MeshPart1
     4300000: polySurface69
     4300002: polySurface70
     4300004: polySurface71
@@ -964,14 +956,14 @@ ModelImporter:
     4300352: pCube90
     4300354: pCube91
     4300356: pCube92
-    4300358: cama:Cama_Colchon_MeshPart0
-    4300360: cama:Cama_Colchon_MeshPart1
     7400000: Take 001
     9500000: //RootNode
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -984,12 +976,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -997,22 +992,30 @@ ModelImporter:
     globalScale: 10
     meshCompression: 0
     addColliders: 0
+    importVisibility: 1
     importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -1027,7 +1030,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
