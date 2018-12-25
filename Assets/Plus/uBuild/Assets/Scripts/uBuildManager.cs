@@ -350,10 +350,10 @@ public class uBuildManager : MonoBehaviour {
 			}
 			else{
  
-                    //m_Renderer.material.color = Color.clear;
+                    m_Renderer.material.color = Color.clear;
                     //if this is not the selected piece, give it a white color and a diffuse shader
-                    piece.GetComponentInChildren<Renderer>().material.color = Color.white; 
-                    piece.GetComponent<Renderer>().material.shader = Shader.Find("Diffuse");
+                    //piece.GetComponentInChildren<Renderer>().material.color = ;
+                    //piece.GetComponent<Renderer>().material.shader = Shader.Find("Diffuse");
                 }
 		}
 		}
