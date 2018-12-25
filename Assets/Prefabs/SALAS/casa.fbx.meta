@@ -207,8 +207,6 @@ ModelImporter:
     100402: WRectangle
     100404: "\xED\xEE\xE6\xEA\xE008"
     100406: "\xED\xEE\xE6\xEA\xE009"
-    100408: cama:Cama_Colchon_MeshPart0
-    100410: cama:Cama_Colchon_MeshPart1
     400000: armario01:Mesh
     400002: Audifonos
     400004: Bocina
@@ -413,8 +411,6 @@ ModelImporter:
     400402: WRectangle
     400404: "\xED\xEE\xE6\xEA\xE008"
     400406: "\xED\xEE\xE6\xEA\xE009"
-    400408: cama:Cama_Colchon_MeshPart0
-    400410: cama:Cama_Colchon_MeshPart1
     2100000: aiStandardSurface13
     2100002: aiStandardSurface15
     2100004: lambert1
@@ -602,8 +598,6 @@ ModelImporter:
     2300352: silla06:Mesh
     2300354: sofa:polySurface1
     2300356: WRectangle
-    2300358: cama:Cama_Colchon_MeshPart0
-    2300360: cama:Cama_Colchon_MeshPart1
     3300000: armario01:Mesh
     3300002: Bocina
     3300004: Bocina_1
@@ -783,8 +777,6 @@ ModelImporter:
     3300352: silla06:Mesh
     3300354: sofa:polySurface1
     3300356: WRectangle
-    3300358: cama:Cama_Colchon_MeshPart0
-    3300360: cama:Cama_Colchon_MeshPart1
     4300000: polySurface69
     4300002: polySurface70
     4300004: polySurface71
@@ -964,57 +956,14 @@ ModelImporter:
     4300352: pCube90
     4300354: pCube91
     4300356: pCube92
-    4300358: cama:Cama_Colchon_MeshPart0
-    4300360: cama:Cama_Colchon_MeshPart1
     7400000: Take 001
     9500000: //RootNode
-    2186277476908879412: ImportLogs
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: aiStandardSurface13
-    second: {fileID: 2100000, guid: fa3bf065ec590ea48bd61beba0b95a62, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: aiStandardSurface15
-    second: {fileID: 2100000, guid: f663ca39efb1dae49b3df8bd5c5b831a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: aiStandardSurface16
-    second: {fileID: 2100000, guid: 3bf4bc48023ed3f40a0bb7ae5c0db0d1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: aiStandardSurface17
-    second: {fileID: 2100000, guid: fb104985ae99e374fa25f19123e790ce, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: aiStandardSurface18
-    second: {fileID: 2100000, guid: 1dcaecada8f46f6479591bbf8eb6c6d0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: blinn18
-    second: {fileID: 2100000, guid: 92c6ab3e4bb255640982a17bbb8ffbed, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: d1434dbef6132844db5ac1e09c586f7e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: shtory
-    second: {fileID: 2100000, guid: f96b9d688119cf5478ae07b6b13e9d93, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -1040,13 +989,13 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 10
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 0
+    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -1054,19 +1003,19 @@ ModelImporter:
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.099999994
+    previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
+    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
