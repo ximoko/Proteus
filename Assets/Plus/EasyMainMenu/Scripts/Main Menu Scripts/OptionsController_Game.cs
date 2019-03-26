@@ -100,7 +100,7 @@ public class OptionsController_Game : MonoBehaviour {
     /// <summary>
     ///  Only sets the value
     /// </summary>
-    void game_setHUD() {
+    /*void game_setHUD() {
         //disable
         if (toggleHud == 0)
         {
@@ -126,7 +126,7 @@ public class OptionsController_Game : MonoBehaviour {
             #endif
             
         }
-    }
+    }*/
 
     #region Brightness
 
@@ -315,7 +315,7 @@ public class OptionsController_Game : MonoBehaviour {
 
         #endif
         //set values accordingly
-        game_setHUD();
+        //game_setHUD();
         game_setMusic();
         game_setSound();
 

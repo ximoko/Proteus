@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e83c12ea754689a476d23cac7e5ad7, type: 3}
+  m_Name: ARISphere_Prototype_-155622
+  m_EditorClassIdentifier: 
+  prefabObject: {fileID: 1560813634144258, guid: 4d9aafbd662280443ab99e2868c04317,
+    type: 2}
+  isShadowCasting: 1
+  isFrustumCulling: 1
+  isOcclusionCulling: 1
+  frustumOffset: 0.2
+  maxDistance: 500
+  enableRuntimeModifications: 1
+  startWithRigidBody: 0
+  addRemoveInstancesAtRuntime: 1
+  extraBufferSize: 500

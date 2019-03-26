@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: b1e5529f2795e6344b38c49382e29006
+labels:
+- light
+- volumetric
+- shadow
+- realtime
+- effect
+- fx
+- volume
+- lighting
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bakedShadowTexture: {instanceID: 0}
+  - renderDepthShader: {fileID: 4800000, guid: 26c171c785261784f8909aae5f3697e4, type: 3}
+  - spotMaterial: {fileID: 2100000, guid: 0ae03080a8dadc6448d3d12b54ed4f3c, type: 2}
+  - pointMaterial: {fileID: 2100000, guid: dd36a29b2d153244ba3d06d8217c876c, type: 2}
+  - _instancedSpotMaterial: {instanceID: 0}
+  - _instancedPointMaterial: {instanceID: 0}
+  - meshContainer: {instanceID: 0}
+  executionOrder: 200
+  icon: {fileID: 808945810, guid: 0000000000000000d000000000000000, type: 2}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

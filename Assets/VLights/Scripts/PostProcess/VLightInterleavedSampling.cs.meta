@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 315cc901cafd14c4887450a160c2ec3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - interleavedSamplerShader: {fileID: 4800000, guid: 591bcfb596f3c0b45877be2dae7d5425,
+      type: 3}
+  - blurShader: {fileID: 4800000, guid: 0819ca49e270faf4aa68b8a2b0e65c2f, type: 3}
+  - compositeShader: {fileID: 4800000, guid: 59cf06ce1c72a2d42a35107d76416783, type: 3}
+  - volumeLightShader: {fileID: 4800000, guid: aface9889da643e4e9c581d463a53cd0, type: 3}
+  - volumeLightPointShader: {fileID: 4800000, guid: 1f012f142e19d224d90b5445cfde3d2e,
+      type: 3}
+  - depthShader: {fileID: 4800000, guid: 26c171c785261784f8909aae5f3697e4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
